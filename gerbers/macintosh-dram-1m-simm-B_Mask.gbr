@@ -1,0 +1,91 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.0*%
+%TF.CreationDate,2024-11-03T15:19:12-05:00*%
+%TF.ProjectId,macintosh-dram-1m-simm,6d616369-6e74-46f7-9368-2d6472616d2d,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.0) date 2024-11-03 15:19:12*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMOutline5P*
+0 Free polygon, 5 corners , with rotation*
+0 The origin of the aperture is its center*
+0 number of corners: always 5*
+0 $1 to $10 corner X, Y*
+0 $11 Rotation angle, in degrees counterclockwise*
+0 create outline with 5 corners*
+4,1,5,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$1,$2,$11*%
+%AMOutline6P*
+0 Free polygon, 6 corners , with rotation*
+0 The origin of the aperture is its center*
+0 number of corners: always 6*
+0 $1 to $12 corner X, Y*
+0 $13 Rotation angle, in degrees counterclockwise*
+0 create outline with 6 corners*
+4,1,6,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$1,$2,$13*%
+%AMOutline7P*
+0 Free polygon, 7 corners , with rotation*
+0 The origin of the aperture is its center*
+0 number of corners: always 7*
+0 $1 to $14 corner X, Y*
+0 $15 Rotation angle, in degrees counterclockwise*
+0 create outline with 7 corners*
+4,1,7,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$1,$2,$15*%
+%AMOutline8P*
+0 Free polygon, 8 corners , with rotation*
+0 The origin of the aperture is its center*
+0 number of corners: always 8*
+0 $1 to $16 corner X, Y*
+0 $17 Rotation angle, in degrees counterclockwise*
+0 create outline with 8 corners*
+4,1,8,$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$1,$2,$17*%
+G04 Aperture macros list end*
+%ADD10Outline5P,-0.890000X1.038000X-0.178000X1.750000X0.890000X1.750000X0.890000X-1.750000X-0.890000X-1.750000X0.000000*%
+%ADD11C,3.200000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,B1*%
+X122174000Y-125098000D03*
+X124714000Y-125098000D03*
+X127254000Y-125098000D03*
+X129794000Y-125098000D03*
+X132334000Y-125098000D03*
+X134874000Y-125098000D03*
+X137414000Y-125098000D03*
+X139954000Y-125098000D03*
+X142494000Y-125098000D03*
+X145034000Y-125098000D03*
+X147574000Y-125098000D03*
+X150114000Y-125098000D03*
+X152654000Y-125098000D03*
+X155194000Y-125098000D03*
+X157734000Y-125098000D03*
+X160274000Y-125098000D03*
+X162814000Y-125098000D03*
+X165354000Y-125098000D03*
+X167894000Y-125098000D03*
+X170434000Y-125098000D03*
+X172974000Y-125098000D03*
+X175514000Y-125098000D03*
+X178054000Y-125098000D03*
+X180594000Y-125098000D03*
+X183134000Y-125098000D03*
+X185674000Y-125098000D03*
+X188214000Y-125098000D03*
+X190754000Y-125098000D03*
+X193294000Y-125098000D03*
+X195834000Y-125098000D03*
+%TD*%
+D11*
+%TO.C,H1*%
+X117729000Y-116840000D03*
+%TD*%
+%TO.C,H2*%
+X199898000Y-116840000D03*
+%TD*%
+M02*
